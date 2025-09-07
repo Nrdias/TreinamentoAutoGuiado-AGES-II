@@ -1,4 +1,4 @@
-# TreinamentoAutoGuiado-AGES-II
+# TreinamentoAutoguiado-AGES-II
 
 obs. this is just a "proxy" repository.
 
